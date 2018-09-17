@@ -1,0 +1,17 @@
+#carouselExampleSlidesOnly .first-slide{
+    background: #ddd;
+    height:200px;
+
+}
+
+#carouselExampleSlidesOnly .second-slide{
+    background: #eee;
+    height:200px;
+
+}
+
+#carouselExampleSlidesOnly .third-slide{
+    background: #ccc;
+    height:200px;
+
+}

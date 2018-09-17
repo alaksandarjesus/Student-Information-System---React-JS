@@ -1,3 +1,9 @@
 *{
   font-family: 'Open Sans';
 }
+
+.table thead th{
+  vertical-align: middle;
+  text-align: center;
+  font-weight: 600;
+}
